@@ -1,5 +1,7 @@
 // ============================================
 // buffer.h - Shared definitions (INCOMPLETE - You must complete this!)
+// Sara Racel
+// Section: 04
 // ============================================
 #ifndef BUFFER_H
 #define BUFFER_H

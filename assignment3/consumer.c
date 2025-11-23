@@ -1,5 +1,7 @@
 // ============================================
 // consumer.c - Consumer process starter
+// Sara Racel
+// Section: 04
 // ============================================
 #include "buffer.h"
 

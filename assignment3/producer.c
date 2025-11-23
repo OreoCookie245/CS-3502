@@ -1,5 +1,7 @@
 // ============================================
 // producer.c - Producer process starter
+// Sara Racel
+// Section: 04
 // ============================================
 #include "buffer.h"
 
